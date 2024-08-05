@@ -3,5 +3,5 @@ Game TIC-TAC-TOE with python language
 
 using library colorama
 
-# install
+# Install Required
 ``` pip install colorama ```
